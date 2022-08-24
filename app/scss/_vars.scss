@@ -30,5 +30,6 @@ $bg: #f6f6f6;
   color: $white;
   background-color: $accent;
   box-shadow: 0 7px 20px 0 rgba(255, 17, 48, 0.3);
+  border: none;
   @extend %roboto-400;
 }
